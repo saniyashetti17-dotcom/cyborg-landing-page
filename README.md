@@ -10,7 +10,7 @@ A futuristic cyberpunk-themed responsive landing page built using HTML, CSS and 
 - Interactive CTA
 
 ## Live Demo
-(Paste your GitHub Pages link here)
+https://saniyashetti17-dotcom.github.io/cyborg-landing-page/
 
 ## Demo Video
-(Paste your Google Drive video link here)
+https://drive.google.com/file/d/16U5Yi6uAlhZtkUU5bHn_OYCPs9dLidsv/view?usp=sharing
